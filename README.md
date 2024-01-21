@@ -1,7 +1,7 @@
 # AR_tic_tac_toe
 This is a small piece of code made using mediapipe and opencv, which enables users to play an AR tic tac toe game using hand gestures
 
-#Overview
+# Overview
 This Python script implements a unique twist to the classic Tic-Tac-Toe game by allowing players to make moves using hand gestures captured through a webcam. The game utilizes the MediaPipe library for hand tracking, providing an interactive and fun way to play Tic-Tac-Toe.
 
 #Features
